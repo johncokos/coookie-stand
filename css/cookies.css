@@ -1,0 +1,14 @@
+
+.cookies-content {
+  padding: 10px;
+}
+
+.lower-cookies {
+  overflow:hidden;
+  margin-bottom: 25px;
+}
+
+.lower-cookies img {
+  float: left;
+  margin-right: 10px;
+}

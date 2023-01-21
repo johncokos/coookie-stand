@@ -1,28 +1,19 @@
-
 header {
   background: rebeccapurple;
-}
-
-main {
-  background: #eee;
-}
-
-footer {
-  background: #111;
-  color: #eee;
-  padding: 25px;
-  text-align:center;
 }
 
 header h1 {
   color: ivory;
   font-weight: bold;
   font-size: 25pt;
-  text-align: center;
   padding: 10px;
+  text-align: center;
 }
+
+
 nav {
   background: #111;
+  text-align: center;
 }
 
 nav li {
@@ -44,22 +35,18 @@ nav li:hover a {
   color: #111;
 }
 
+
+main {
+  background: #eee;
+}
+
 .top img {
   width: 100%;
 }
 
-section.lower {
+footer {
+  background: #111;
+  color: #eee;
+  padding: 25px;
   text-align:center;
-  display: inline-block;
-  margin: 20px;
-}
-
-section.lower img {
-  width: 100%;
-  text-align: center;
-}
-
-section.content {
-  width: 90%;
-  margin: auto;
 }

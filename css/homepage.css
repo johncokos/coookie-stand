@@ -1,0 +1,15 @@
+section.content {
+  margin: auto;
+  width: 90%;
+}
+
+section.lower {
+  display: inline-block;
+  margin: 20px;
+  text-align:center;
+}
+
+section.lower img {
+  text-align: center;
+  width: 100%;
+}
