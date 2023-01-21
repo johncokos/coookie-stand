@@ -1,0 +1,65 @@
+
+header {
+  background: rebeccapurple;
+}
+
+main {
+  background: #eee;
+}
+
+footer {
+  background: #111;
+  color: #eee;
+  padding: 25px;
+  text-align:center;
+}
+
+header h1 {
+  color: ivory;
+  font-weight: bold;
+  font-size: 25pt;
+  text-align: center;
+  padding: 10px;
+}
+nav {
+  background: #111;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+nav li:hover {
+  background: #ccc;
+}
+
+nav li a {
+  color: silver;
+  text-decoration: none;
+}
+
+/* This is a note to myself... */
+nav li:hover a {
+  color: #111;
+}
+
+.top img {
+  width: 100%;
+}
+
+section.lower {
+  text-align:center;
+  display: inline-block;
+  margin: 20px;
+}
+
+section.lower img {
+  width: 100%;
+  text-align: center;
+}
+
+section.content {
+  width: 90%;
+  margin: auto;
+}
