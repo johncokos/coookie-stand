@@ -13,3 +13,10 @@ section.lower img {
   text-align: center;
   width: 100%;
 }
+
+.output {
+  background: pink;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 25px;
+}

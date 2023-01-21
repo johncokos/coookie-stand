@@ -27,6 +27,21 @@
       <p>Our cookies are the bestest ever</p>
     </section>
 
+    <h2>
+      <script src="/javascript/get-name.js"></script>
+    </h2>
+
+    <div class="output">
+      <script>
+        let cookies = prompt("How many cookies do you want?");
+        let message = "Awesome! Well cook those for you";
+        if (cookies < 12) {
+          message = "You should get a dozen";
+        }
+        document.write(message);
+      </script>
+    </div>
+
     <!-- This section is here to let us center the images -->
     <section class="content">
 
